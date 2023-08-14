@@ -12,7 +12,7 @@ Data Dictionary - <a href="https://www.nyc.gov/assets/tlc/downloads/pdf/data_dic
 <h2>Data Model</h2>
 <img src="Data-Model.png" width = "500" height="400">
 <h2>Power BI Dashboard</h2>
-Since the size of this dataset is pretty big, I have uploaded my dashboard in google drive and link provided below,<br>
-<a href="https://drive.google.com/file/d/1ua5m4wtnObWMc3IvhFxZh6RT8EDEXg3K/view?usp=drive_link">Uber-Analysis-Dashboard</a><br><br>
+Dashboard will be available in below link,<br>
+<a href="https://www.novypro.com/project/uber-trip-analysis">Uber-Analysis-Dashboard</a><br><br>
 Dashboard will look like
 <img src="Dashboard.png" height="600">
